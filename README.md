@@ -6,4 +6,4 @@ Final project for ZTM course
 2. Run `npm install`
 3. Run `npm start`
 
-You can see it here [app](https://smart-brain-app-3.herokuapp.com/?target=_blank).
+You can see it here [app](https://smart-brain-app-3.herokuapp.com/){:target="_blank"}.
